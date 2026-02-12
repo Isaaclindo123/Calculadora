@@ -2,7 +2,7 @@
 
 ## Versões suportadas
 
-Essas versões, (que por enquanto só tem a 1.0) não são mais suportadas:
+Essas versões, que não são mais supportadas: (que por enquanto só tem a 1.0)
 
 | Versão  | Supportado         |
 | ------- | ------------------ |
