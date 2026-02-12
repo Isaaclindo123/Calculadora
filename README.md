@@ -10,6 +10,7 @@ As coisas básicas que tem, como:
 - Um botão de porcentagem %
 - Um botão igual =
 - Um botão de vírgula
+- Números ligado ao teclado mas as operações não
 - Os botões de 0 à 9
 - E um histórico funcional
 # E isso é tudo (:
